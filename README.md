@@ -23,7 +23,7 @@ This project aims to deploy a Reddit clone application in a cloud-native environ
 
 10. Grafana: A visualization and dashboard tool displaying monitoring data in a user-friendly manner.
 
-11. Elasticsearch: A distributed search and analytics engine for storing and indexing logs.
+11. Kibana: A distributed search and analytics engine for storing and indexing logs.
 
 # Documentation
  ## First Pipeline Check after pool adjustment with Jenkins
