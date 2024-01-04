@@ -15,7 +15,7 @@ pipeline{
         }
         stage('Checkout from Git'){
             steps{
-                git branch: 'main', url: 'https://github.com/mudit097/Reddit-Clone-apps.git', credentialsId: '<your-credentials-id>'
+                git branch: 'main', url: 'https://github.com/Tim275/Reddit-Clone-app.git', credentialsId: '<your-credentials-id>'
             }
         }
         stage("Sonarqube Analysis "){
