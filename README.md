@@ -1,5 +1,6 @@
 ## Overview
-![image](https://github.com/Tim275/Reddit-Clone-app/assets/117520669/208852a3-cc4e-44c2-b63b-6521ba89596b)
+![cicdgitops drawio](https://github.com/Tim275/Reddit-Clone-app/assets/117520669/7176aab4-2e9d-4b0f-8ecf-ef244b76189e)
+
 
 
 This project aims to deploy a Reddit clone application in a cloud-native environment while incorporating monitoring and logging functionalities. The implementation will leverage the following tools:
