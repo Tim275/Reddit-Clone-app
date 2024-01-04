@@ -35,10 +35,12 @@ This project aims to deploy a Reddit clone application in a cloud-native environ
 
 ![image](https://github.com/Tim275/Reddit-Clone-app/assets/117520669/27efec43-743b-4ba0-be9c-be652d3439f3)
 
-![image](https://github.com/Tim275/Reddit-Clone-app/assets/117520669/4d5453a0-cdf2-4fa8-990d-4a7d171733f6)
+![image](https://github.com/Tim275/Reddit-Clone-app/assets/117520669/5c08b20d-5125-4ab4-b377-cd54ee85e344)
+
 
 ## Dependency check with QWASP
-![image](https://github.com/Tim275/Reddit-Clone-app/assets/117520669/807e9dbb-627a-4724-ae27-1f612fc03238)
+![image](https://github.com/Tim275/Reddit-Clone-app/assets/117520669/bad1c730-bdfa-4e45-8348-e98ce4556acc)
+
 
 ## docker image included into the Pipeline
 ![image](https://github.com/Tim275/Reddit-Clone-app/assets/117520669/93718570-1dc9-4f21-820c-f506eca6b1a8)
