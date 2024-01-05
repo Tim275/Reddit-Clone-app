@@ -1,5 +1,10 @@
+## Description
+
+DevSecOps Project to setup Reddit-Clone on AWS using CICD, Security, Monitoring and GitOps
+
 ## Overview
 ![cicdgitops drawio](https://github.com/Tim275/Reddit-Clone-app/assets/117520669/7176aab4-2e9d-4b0f-8ecf-ef244b76189e)
+
 
 
 
